@@ -1,7 +1,7 @@
 ## Whoa, Github? Isn't this for programmers?
 Yes, sort of. But scientists use it too, and here's why it's actually useful for what you're about to see.
 
-Essentially, instead of publishing a blog where each post is finalized and polished, Github allows writers to show submit commits, like an edit history. This allows you, as a reader, to read what's currently available and trust that as I continue to learn, I will continue to update what exists in my publication. So, less emphasis goes on getting an article right the first time, and more time is delegated to writing, researching, and updating as we go.
+Essentially, instead of publishing a blog where each post is finalized and polished, Github allows writers to submit commits, like an edit history. This allows you, as a reader, to read what's currently available and trust that as I continue to learn, I will continue to update what exists in my publication. So, less emphasis goes on getting an article right the first time, and more time is delegated to writing, researching, and updating as we go.
 
 It also allows you to come back in the future, and see what's changed through the commit history. Or, trust that you can link an article to a peer and it will remain current. Anyway, that's enough of that. So, the question is:
 
