@@ -10,3 +10,5 @@ It also allows you to come back in the future, and see what's changed through th
 2. **[RXMD](https://github.com/Rex-Soderlund-RXMD/RXMD)** is a science publication here on Github that focuses on scientific discourse: how science is argued for, defended, and misrepresented in science denialism using 21st Century Philosophy of Science language, and my personal expertise being a Scientific Thinker.
 
 If you're ready to read articles, click the link and it will redirect you to the RXMD repository. There, you can read the README.MD for help, or select the Articles File, which I'll conveniently link here: https://github.com/Rex-Soderlund-RXMD/RXMD/tree/main/Articles
+
+Conversely, you can see my RXMD repository just below this README.md
